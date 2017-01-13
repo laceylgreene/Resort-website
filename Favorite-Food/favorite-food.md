@@ -14,9 +14,9 @@ I love eating food. I can eat food as if I have no ends. Here's some lists of my
 
 ## Foods I Eat Often
 
-1. Paneer Tikka Marsala with Garlic Naan
-2. Caesar Salad and Tomato Soup
-3. Sushi
-4. Fresh Fruits
-5. Pasta
-6. Dim Sum
+- Paneer Tikka Marsala with Garlic Naan
+- Caesar Salad and Tomato Soup
+- Sushi
+- Fresh Fruits
+- Pasta
+- Dim Sum
